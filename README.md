@@ -1,5 +1,5 @@
 # Scraper
-This is a simple scraper for scraping staked coins off and moving to a new wallet
+This is a simple scraper for scraping staked coins off and moving to a new wallet such as your cryptsy deposit adress :)
 
 Dependancies:
 
